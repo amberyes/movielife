@@ -1,0 +1,48 @@
+.liu h1{
+			font-size: 40px;
+			font-family: 宋体;
+			font-weight: lighter;
+			color: #fff;
+			margin-right: 2em; 
+		}
+		.liu {
+			text-align: center; 
+			background-color: #CC99CC;
+			height: 28em;
+		}
+		.liu li {
+			margin-top: 2em;
+			margin-right: 36.6em;
+			list-style: none;
+
+		}
+		.liu li textarea{
+			text-align: center;
+		
+		}
+        .liu img {
+        	float: left;
+        	margin-left: 32em;
+        }
+        .dPf {
+	    	margin: 1em 0 1em;
+	    	padding:6px;
+			text-align:center;
+			background: #CCFFFF;
+	    }
+	    .jqdy img{
+			height: 310px;
+			width: 230px;
+			padding: 0 0.9em 0.5em;
+	    }
+		.footer-section{
+			padding:0 0;
+			text-align:center;
+			background: #ff9541;
+		}
+	    .footer-top {
+			font-size: 1em;
+			color: #fff;
+			font-weight: 300;
+	    }
+	    

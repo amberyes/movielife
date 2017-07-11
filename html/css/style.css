@@ -1,0 +1,79 @@
+.ysList {
+			font-size: 20px;
+			color: #003399;
+			float: right;
+			padding-right: 2em;
+     	}
+.ysList ul {
+     		list-style: none;
+		}
+.ysList li {
+	       	list-style: none;
+	       	font-family: 宋体;
+	       	float: left;
+            padding-left: 20px;
+            font: 60px;
+    	}	
+    	a:link, 
+		a:visited { 
+			color:#0099CC; 
+			text-decoration:none; 
+		} 
+		a:hover, 
+		a:active { 
+			color:#CC3300; 
+			text-decoration:none; 
+		} 
+		.ysIndex {
+ 		 	background: url("../images/a3.jpg")no-repeat 0px 0px;
+  			background-size: cover;
+  			min-height: 300px;
+  			text-align:center;
+   			padding: 4em 0 0;
+		}
+		.ysTu img {
+			float: right;
+			height: 250px;
+		}
+		.ysLs h2 {
+			color: #000033;
+			text-align: center;
+		}
+		.ysLs p{
+			text-indent: 2em;
+			color: #003366;
+
+		}
+		.ysLs {
+			margin-top: 1em;
+			padding: 0 2em 1em;
+			border-style: solid;
+			border-color: #FFFF66;
+			border-width: 2px;
+			text-align: left;
+		}
+		.footer-section{
+			padding:0 0;
+			text-align:center;
+			background: #ff9541;
+		}
+.footer-top {
+			font-size: 1em;
+			color: #fff;
+			font-weight: 300;
+	    }
+	    .ysTie p {
+	    	color: #006699;
+	    	text-align: center;
+	    } 
+.ysJc img{
+			height: 310px;
+			width: 250px;
+			padding: 0 0.2em 0.5em;
+	    }
+.ysPf {
+	    	margin: 1em 0 1em;
+	    	padding:6px;
+			text-align:center;
+			background: #CCCCFF;
+	    }

@@ -1,0 +1,67 @@
+.jndy li {
+			list-style: none;
+			font-family: 宋体;
+			color: #996666;
+		}
+		.jndy p {
+			text-indent: 2em;
+		}
+		
+		h1 {
+			font-family: 宋体;
+			color: #000066;
+			text-align: center;
+
+		}
+		h2 {
+			font-family: 宋体;
+			color: #000066;
+			text-align: center;
+
+		}
+		.jndy img {
+			float: left;
+			height: 300px;
+			margin-left: 1em;
+			margin-right: 1em;
+		}
+		.yr img {
+			height: 300px;
+			width: 250px;
+			margin-left: 0.6em;
+		}
+		.pf {
+			margin: 1em 0 1em;
+	    	padding:3px;
+			text-align:center;
+			background: #CCCCFF;
+		}
+		.yr table {
+			font-family: 宋体;
+			color: #003399;
+			text-align: center;
+		} 
+		.yrpf {
+			margin: 1em 0 0;
+	    	padding:3px;
+			text-align:center;
+			background: #FFFFCC;
+		}
+		
+		.yrpf img {
+			height: 40px;
+			width: 70px;
+			float: right;
+			margin: 0.2em 0 0;
+		}
+		.footer-section{
+			padding:0 0;
+			text-align:center;
+			background: #ff9541;
+
+		}
+	    .footer-top {
+			font-size: 1em;
+			color: #fff;
+			font-weight: 300;
+	    }

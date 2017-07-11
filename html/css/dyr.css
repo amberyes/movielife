@@ -1,0 +1,48 @@
+.dPf {
+	    	margin: 1em 0 1em;
+	    	padding:6px;
+			text-align:center;
+			background: #CCCCFF;
+	    }
+	    .ysdyr p {
+            color: #006699;
+	    	text-align: center;
+	    }
+
+	    .dyrimg p{
+            text-indent: 2em;
+            text-align: left;
+            margin-left: 0.2em;
+	    }
+	    .lian img ,.lixiao img ,.malong img ,.sans img ,.aodai img ,.xiaoli img ,.aodai img ,.sip img ,.aima img{
+	    	margin-left: 0.3em;
+	    	margin-top: 0.2em;
+	    	height: 260px;
+			width: 210px;
+	    }
+	    .lian ,.lixiao ,.malong ,.sans ,.aodai ,.xiaoli ,.aima,.aodai ,.sip {
+	    	margin-top: 1em;
+	    	margin-left: 4.3em;
+			padding: 0.1em 0.6em 1em;
+			height: 550px;
+			width: 223px;
+            float: left;
+			border-style: solid;
+			border-color: #FFFF66;
+			border-width: 2px;
+			text-align: left;
+	    }
+
+		.footer-section{
+			padding:0 0;
+			text-align:center;
+			background: #ff9541;
+			margin-top: 76em;
+
+		}
+	    .footer-top {margin-bottom: 1em;
+			font-size: 1em;
+			color: #fff;
+			font-weight: 300;
+	    }
+	    
